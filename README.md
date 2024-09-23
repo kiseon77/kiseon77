@@ -10,7 +10,11 @@
 #### ✏️ Career
 | Type | Name | Date | Organization|
 |------|------|------|-------------|
-Education|Dept. of Visual Communication Design||CHUNGCHEONG UNIVERSITY|
+Education|멀티미디어디자인학과|2023.03 ~|SEOUL CYBER UNIVERSITY|
+Education|FrontEnd|2024.06 ~ |OZ Coding School|
+Education|FUllStack|2023.09 ~ 2024.03|청년취업사관학교|
+Work Experience|UX/UI Designer|2022.09 ~ 2023.09|CUBALTO (쿠발토)|
+Education|Dept. of Visual Communication Design|2020.03 ~ 2022.02|CHUNGCHEONG UNIVERSITY|
 
 
 ## 🔨 Languages & Frameworks & Skills
