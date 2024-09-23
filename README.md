@@ -1,9 +1,50 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DBA544&height=150&section=header" />
 
-## Hi there 👋 
+## About me
 
+안녕하세요. 프론트엔드 개발자 한기선입니다.
 
-##### 📈 my github stats
+#### 📈 My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiseon77&theme=gruvbox&show_icons=true)
+
+#### ✏️ Career
+| Type | Name | Date | Organization|
+|------|------|------|-------------|
+Education|Dept. of Visual Communication Design||CHUNGCHEONG UNIVERSITY|
+
+
+## 🔨 Languages & Frameworks & Skills
+### 💻 Web Design & Development 
+#### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+</br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+</br>
+![react](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+#### Back-end
+![nodedotjs](https://img.shields.io/badge/nodedotjs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
+
+#### Database
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### IDEs and Tools
+![figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+</br>
+![notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white)
+![jira](https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+</br>
+![slack](https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DBA544&height=150&section=footer" />
