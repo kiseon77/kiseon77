@@ -15,7 +15,6 @@ Education|Dept. of Visual Communication Design|2020.03 ~ 2022.02|CHUNGCHEONG UNI
 
 
 ## 🔨 Languages & Frameworks & Skills
-### 💻 Web Design & Development 
 #### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white)
