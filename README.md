@@ -1,11 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DBA544&height=150&section=header" />
 
-## About me
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=32&pause=1000&color=F7B538&width=435&lines=HELLO+I'm+KISEON)](https://git.io/typing-svg)
 
 안녕하세요. 프론트엔드 개발자 한기선입니다.
-
-#### 📈 My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiseon77&theme=gruvbox&show_icons=true)
 
 #### ✏️ Career
 | Type | Name | Date | Organization|
