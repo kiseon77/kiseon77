@@ -7,7 +7,8 @@
 #### ✏️ Career
 | Type | Name | Date | Organization|
 |------|------|------|-------------|
-Work Experience|FrontEnd|2024.12 ~ 2025.02|Atomrigs Lab|
+Work Experience|FrontEnd&
+Ai Graphic Design|2024.12 ~ |Atomrigs Lab|
 Education|멀티미디어디자인학과|2023.03 ~ 2025.02|SEOUL CYBER UNIVERSITY|
 Education|FrontEnd|2024.06 ~ 2024.12|OZ Coding School|
 Education|FULLStack|2023.09 ~ 2024.03|청년취업사관학교|
