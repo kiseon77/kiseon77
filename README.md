@@ -2,16 +2,14 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=32&pause=1000&color=F7B538&width=435&lines=HELLO+I'm+KISEON)](https://git.io/typing-svg)
 
-안녕하세요. 프론트엔드 개발자 한기선입니다.
-
 #### ✏️ Career
 | Type | Name | Date | Organization|
 |------|------|------|-------------|
-Work Experience|FrontEnd & Ai Graphic Design|2024.12 ~ 2026.02|Atomrigs Lab|
+Work|FrontEnd & Ai Graphic Design|2024.12 ~ 2026.02|Atomrigs Lab|
 Education|멀티미디어디자인학과|2023.03 ~ 2025.02|SEOUL CYBER UNIVERSITY|
 Education|FrontEnd|2024.06 ~ 2024.12|OZ Coding School|
 Education|FULLStack|2023.09 ~ 2024.03|청년취업사관학교|
-Work Experience|UX/UI Designer|2022.09 ~ 2023.09|CUBALTO (쿠발토)|
+Work|UX/UI Designer|2022.09 ~ 2023.09|CUBALTO (쿠발토)|
 Education|Dept. of Visual Communication Design|2020.03 ~ 2022.02|CHUNGCHEONG UNIVERSITY|
 
 
