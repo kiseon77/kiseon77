@@ -24,8 +24,8 @@
 |------|------|------|--------------|
 | Work | Frontend Developer & AI Asset Pipeline | 2024.12 ~ 2026.02 | Atomrigs Lab |
 | Work | UX/UI Designer | 2022.09 ~ 2023.09 | CUBALTO (쿠발토) |
-| Education | 자연어처리(심화) AI 과정 | 2026.09 ~ 2026.12 | 멋쟁이사자처럼 |
-| Education | Bootcamp: 풀스택 · 프론트엔드 | 2023.09 ~ 2024.12 | 청년취업사관학교 새싹 · OZ Coding School |
+| Education | 자연어처리(심화) AI NLP | 2026.09 ~ 2026.12 | 멋쟁이사자처럼 |
+| Education | 풀스택 · 프론트엔드 | 2023.09 ~ 2024.12 | 청년취업사관학교 새싹 · OZ Coding School |
 | Education | 멀티미디어학과 · 시각디자인과 | 2020.03 ~ 2025.02 | SEOUL CYBER UNIV. · CHUNGCHEONG UNIV. |
 
 #### 📜 Certifications
